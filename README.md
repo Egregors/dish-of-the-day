@@ -25,7 +25,8 @@ python3 yummy.py
 Для обновления общего списка стран
 ```
 python3 yummy.py update
-```
+``
 
 ## Картинки
 ![Alt text](raw/img/1.png)
+![Alt text](raw/img/2.png)
